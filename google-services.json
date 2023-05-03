@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89093480155",
+    "firebase_url": "https://appmobile-79773-default-rtdb.firebaseio.com",
+    "project_id": "appmobile-79773",
+    "storage_bucket": "appmobile-79773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89093480155:android:0a0f81bbd20fb5d95ef6fe",
+        "android_client_info": {
+          "package_name": "com.example.all4my"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89093480155-mi20ojnhsauem3ua3lp5i25f0473ujo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA9drXmz89vIGLMtwyzUhu5b6DE43ClGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89093480155-mi20ojnhsauem3ua3lp5i25f0473ujo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
